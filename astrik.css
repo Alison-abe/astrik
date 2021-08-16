@@ -1,0 +1,30 @@
+
+::-webkit-scrollbar{
+   display: none;
+}
+.heading{
+   color:silver;
+   font-family: cursive;
+   font-size:50px;
+   font-weight: bolder;
+   margin-top: 10vh;
+   margin-left: 40%;
+}
+.head2{
+   color:rgb(196, 250, 231);
+   margin-top: 15vh;
+   margin-left: 30%;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.head3{
+   margin-top: 4vh;
+   margin-left: 30%;
+   font-family: cursive;
+   color: antiquewhite;
+}
+.home1{
+   margin-top: 17vh;
+   color: azure;
+   
+}
+

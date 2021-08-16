@@ -1,0 +1,13 @@
+$(document).ready(function(){
+    $("#gform").validate({
+        rules:{
+            uname:{
+                required:true
+            },
+            uemail:{
+                required:true,
+                email:true
+            }
+        }
+    })
+})
